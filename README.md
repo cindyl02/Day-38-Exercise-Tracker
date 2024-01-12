@@ -1,4 +1,4 @@
-## Exercise Tracker
+## Exercise Tracker (Day 38)
 ### About
 This project uses Nutritionix Natural Language API to get information about calories burned and duration of exercise from user's input. 
 
